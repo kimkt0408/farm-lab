@@ -40,6 +40,11 @@ body.sticky-bottom-footer {
   }
 
   &.text-center {
+    float: none !important;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+
     img {
       max-width: 600px;
       margin: 0 auto;
