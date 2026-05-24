@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br>Department of Biological and Agricultural Engineering, North Carolina State University
+subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br><b>Department of Biological and Agricultural Engineering, North Carolina State University</b>
 
 profile:
   align: right
