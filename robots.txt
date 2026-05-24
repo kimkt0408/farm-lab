@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kimkt0408.github.io/farm-lab/sitemap.xml
