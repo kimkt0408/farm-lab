@@ -5,8 +5,8 @@
 
 <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
-<div><strong>Ph.D.</strong>: Mechanical Engineering, Purdue University, 2026</div>
-<div><strong>M.S.</strong>: Mechanical Engineering, Korea University, 2021</div>
+<div><strong>Ph.D.</strong>: Mechanical Engineering, Purdue University, 2026 (Advisor: <a href="https://multiscalerobotics.org" target="_blank">Dr. David J. Cappelleri</a>)</div>
+<div><strong>M.S.</strong>: Mechanical Engineering, Korea University, 2021 (Advisor: <a href="https://isr.korea.ac.kr/" target="_blank">Dr. Woojin Chung</a>)</div>
 <div><strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019</div>
 </div>
 
