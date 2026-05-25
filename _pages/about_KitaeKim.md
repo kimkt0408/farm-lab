@@ -3,9 +3,9 @@
 
 <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
 <ul style="font-size: 0.9rem; line-height: 1.6;">
-  <li><strong>Ph.D.</strong>: Mechanical Engineering, Purdue University, 2026</li>
-  <li><strong>M.S.</strong>: Mechanical Engineering, Korea University, 2021</li>
-  <li><strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019</li>
+  <strong>Ph.D.</strong>: Mechanical Engineering, Purdue University, 2026
+  <strong>M.S.</strong>: Mechanical Engineering, Korea University, 2021
+  <strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019
 </ul>
 
 <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4>
