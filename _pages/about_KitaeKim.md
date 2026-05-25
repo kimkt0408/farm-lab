@@ -1,7 +1,7 @@
 <div style="margin-left: 1.5rem;">
 
 <h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;">Kitae Kim, Ph.D.</h3>
-<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Assistant Professor, 2026 -- Present<br>Biological and Agricultural Engineering, NC State University</p>
+<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Assistant Professor, 2026 - Present<br>Biological and Agricultural Engineering, NC State University</p>
 
 <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
@@ -10,7 +10,7 @@
 <div><strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019</div>
 </div>
 
-<h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4>
+<!-- <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4> -->
 <div style="font-size: 1.5rem; line-height: 1;">
   <a href="mailto:kim3686@purdue.edu" style="margin-right: 0.5rem;"><i class="fas fa-envelope"></i></a>
   <a href="https://www.linkedin.com/in/kimkt0408" style="margin-right: 0.5rem;"><i class="fab fa-linkedin"></i></a>
