@@ -1,7 +1,7 @@
 <div style="margin-left: 1.5rem;">
 
 <h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;">Kitae Kim, Ph.D.</h3>
-<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Incoming Assistant Professor, 2026 - Present<br>Biological and Agricultural Engineering, NC State University</p>
+<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Incoming Assistant Professor, 08.2026 - <br>Biological and Agricultural Engineering, NC State University</p>
 
 <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
