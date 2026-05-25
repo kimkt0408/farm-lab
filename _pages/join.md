@@ -8,78 +8,81 @@ nav_order: 7
 
 ## Open Positions
 
-We are looking for highly motivated students and postdoctoral researchers to join our team!
-
-### Prospective PhD Students
-
-If you are interested in pursuing a PhD in our lab, please:
-
-1. Apply to the [Department of Biological and Agricultural Engineering at NC State](https://bae.ncsu.edu/academics/graduate/)
-2. Mention Dr. Kitae Kim in your application
-3. Feel free to email me at [your-email@ncsu.edu](mailto:your-email@ncsu.edu) with:
-   - **Email Subject:** `[FARM LAB: PhD Application] Your Name`
-   - Your CV
-   - Research interests
-   - Relevant publications (if any)
-
-**Application Deadlines:** Check the department website for current deadlines.
-
-### Postdoctoral Researchers
-
-We have openings for postdoctoral researchers in:
+We are looking for highly motivated students and postdoctoral researchers to join our team! Our main research topics include, but are not limited to:
 - Field robotics and automation
 - Machine learning for agricultural applications
 - Multi-robot systems
 - Computer vision for unstructured environments
 
-**Requirements:**
-- PhD in Robotics, Computer Science, Mechanical Engineering, or related fields
-- Strong publication record
-- Expertise in one or more: robot perception, planning, control, or learning
+#### What We Offer
 
-**To Apply:** Feel free to email me at [your-email@ncsu.edu](mailto:your-email@ncsu.edu) with:
-   - **Email Subject:** `[FARM LAB: PostDoc Application] Your Name`
+- State-of-the-art on-campus research facilities and field labs
+- Collaborative research environment across the university
+- Opportunities to work on real-world applications
+- Opportunities to attend main venues for robotics and biological and agricultural engineering (e.g., ICRA, IROS, RSS, ASABE AIM, CVPR, ICCV, etc.)
+
+---
+
+### Prospective Ph.D. Students
+
+If you are interested in pursuing a Ph.D. in our lab, please:
+
+1. Apply to the [Department of Biological and Agricultural Engineering at NC State](https://bae.ncsu.edu/academics/graduate-programs/)
+2. Mention Dr. Kitae Kim in your application
+3. Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+   - **Email Subject:** `[FARM LAB: Ph.D. Application] Your Name`
    - Your CV
-   - Research interests
+   - Research statement
    - Relevant publications (if any)
 
-### Undergraduate Students
+**Application Deadlines:** Check the department website for current deadlines.
 
-NC State undergraduate students interested in research opportunities should:
-- Have completed relevant coursework in robotics, programming, or related areas
-- Be able to commit at least 10 hours per week
+---
 
-**To Apply:** Feel free to email me at [your-email@ncsu.edu](mailto:your-email@ncsu.edu) with:
-   - **Email Subject:** `[FARM LAB: Undergrad Application] Your Name`
-   - Your CV
-   - Research interests
-   - Relevant publications (if any)
+### Undergraduate & Master Students
 
-### Visiting Scholars
+NC State undergraduate and master students interested in research opportunities should:
+- Have completed relevant coursework in robotics, sensors, programming, or related areas
+- Have experienced Linux Ubuntu, ROS1/2, C++, Python
+- Be able to participate in research for at least one year
 
-We welcome visiting scholars and researchers. 
-
-**To Apply:** Feel free to email me at [your-email@ncsu.edu](mailto:your-email@ncsu.edu) with:
-   - **Email Subject:** `[FARM LAB: VisitingScholar Application] Your Name`
+**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+   - **Email Subject:** `[FARM LAB: Undergrad/Master Application] Your Name`
    - Your CV
    - Research interests
    - Relevant publications (if any)
 
 ---
 
-## What We Offer
+### Postdoctoral Researchers
 
-- State-of-the-art research facilities
-- Collaborative research environment
-- Opportunities to work on real-world applications
-- Support for attending conferences and professional development
-- Competitive funding and benefits
+We have openings for postdoctoral researchers:
 
-## Contact
+**Requirements:**
+- Ph.D. in Robotics, Biological and Agricultural Engineering, Mechanical Engineering, Computer Science, or related fields
+- Strong publication record
+- Expertise in one or more: robot perception, planning, control, or learning
 
-For inquiries about joining the lab, please contact:
+**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+   - **Email Subject:** `[FARM LAB: PostDoc Application] Your Name`
+   - Your CV
+   - Research statement
+   - Relevant publications (if any)
 
-**Dr. Kitae Kim**
-Department of Biological and Agricultural Engineering
-North Carolina State University
-Email: [your-email@ncsu.edu](mailto:your-email@ncsu.edu)
+---
+
+### Visiting Scholars
+
+We welcome visiting scholars and researchers. 
+
+**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+   - **Email Subject:** `[FARM LAB: VisitingScholar Application] Your Name`
+   - Your CV
+   - Research statement
+   - Relevant publications (if any)
+
+---
+
+#### Contact
+
+For any inquiries about the FARM Lab, please feel free to reach out to: [kim3686@purdue.edu](mailto:kim3686@purdue.edu)
