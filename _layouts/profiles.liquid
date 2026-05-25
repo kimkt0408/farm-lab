@@ -4,7 +4,12 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
+      {% assign current_category = "" %}
       {% for profile in page.profiles %}
+        {% if profile.category and profile.category != current_category %}
+          {% assign current_category = profile.category %}
+          <h2 class="category-header" style="margin-top: 2rem; margin-bottom: 1rem;">{{ current_category }}</h2>
+        {% endif %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
