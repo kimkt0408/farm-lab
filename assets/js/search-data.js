@@ -447,18 +447,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/farm-lab/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/farm-lab/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-am-honored-to-join-the-department-of-biological-and-agricultural-engineering-at-nc-state-as-a-tenure-track-assistant-professor-this-fall",
+            },},{id: "news-i-am-honored-to-join-the-department-of-biological-and-agricultural-engineering-at-nc-state-as-a-tenure-track-assistant-professor-this-fall",
           title: '🎉 I am honored to join the Department of Biological and Agricultural Engineering...',
           description: "",
           section: "News",},{id: "news-we-are-thrilled-to-announce-the-official-launch-of-the-farm-lab-at-nc-state-university",
