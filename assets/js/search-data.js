@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/farm-lab/";
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/farm-lab/publications/";
+          },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/farm-lab/news/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -451,7 +458,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-am-honored-to-join-the-department-of-biological-and-agricultural-engineering-at-nc-state-as-a-tenure-track-assistant-professor",
+          section: "News",},{id: "news-i-am-honored-to-join-the-department-of-biological-and-agricultural-engineering-at-nc-state-as-a-tenure-track-assistant-professor-this-fall",
           title: '🎉 I am honored to join the Department of Biological and Agricultural Engineering...',
           description: "",
           section: "News",},{id: "news-we-are-thrilled-to-announce-the-official-launch-of-the-farm-lab-at-nc-state-university",
