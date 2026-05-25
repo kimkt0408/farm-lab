@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br><b><a href="https://bae.ncsu.edu/">Department of Biological and Agricultural Engineering</a>, North Carolina State University</b>
 
@@ -9,7 +9,7 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
