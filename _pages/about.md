@@ -5,7 +5,7 @@ permalink: /
 subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br><b><a href="https://bae.ncsu.edu/">Department of Biological and Agricultural Engineering</a>, North Carolina State University</b>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items

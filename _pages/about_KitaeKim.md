@@ -15,6 +15,7 @@
   <a href="mailto:kim3686@purdue.edu" style="margin-right: 0.5rem;"><i class="fas fa-envelope"></i></a>
   <a href="https://www.linkedin.com/in/kimkt0408" style="margin-right: 0.5rem;"><i class="fab fa-linkedin"></i></a>
   <a href="https://scholar.google.com/citations?user=6FfnTeYAAAAJ&hl=en" style="margin-right: 0.5rem;"><i class="ai ai-google-scholar"></i></a>
+  <a href="https://drive.google.com/file/d/1g6f5Klw94DWswm-HU9RC19YKRJzHuHQe/view?usp=drive_link" style="margin-right: 0.5rem;"><i class="ai ai-cv"></i></a>
   <a href="https://kimkt0408.github.io"><i class="fas fa-globe"></i></a>
 </div>
 
