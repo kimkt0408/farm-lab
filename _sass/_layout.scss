@@ -58,6 +58,22 @@ body.sticky-bottom-footer {
   display: block;
 }
 
+// Mobile responsive adjustments for profiles
+@media (max-width: 768px) {
+  .profile {
+    float: none !important;
+    width: 100% !important;
+    max-width: 200px;
+    margin: 0 auto 1rem auto;
+    display: block;
+  }
+
+  .profile-content {
+    overflow: visible;
+    clear: both;
+  }
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
