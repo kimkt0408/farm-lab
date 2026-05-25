@@ -1,14 +1,19 @@
 <div style="margin-left: 1.5rem;">
 
-<h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;">Kitae Kim, Ph.D.</h3>
-<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Assistant Professor, 2026 -- Present<br>Biological and Agricultural Engineering, NC State University</p>
+<h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;">Incoming Student</h3>
+<p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;"></p>
 
-<h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
+<!-- <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
 <div><strong>Ph.D.</strong>: Mechanical Engineering, Purdue University, 2026</div>
 <div><strong>M.S.</strong>: Mechanical Engineering, Korea University, 2021</div>
 <div><strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019</div>
 </div>
+
+<h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Research Interests</h4>
+<p style="font-size: 0.9rem; line-height: 1.6; margin-top: 0;">
+Developing generalizable, collaborative, and scalable robot autonomy in challenging and unstructured field environments, including agriculture, forestry, livestock, mining, and search-and-rescue.
+</p>
 
 <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4>
 <div style="font-size: 1.5rem; line-height: 1;">
@@ -18,4 +23,4 @@
   <a href="https://kimkt0408.github.io"><i class="fas fa-globe"></i></a>
 </div>
 
-</div>
+</div> -->

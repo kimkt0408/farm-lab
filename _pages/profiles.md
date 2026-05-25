@@ -17,7 +17,7 @@ profiles:
       
   - align: left
     image: wolfpack_logo.png
-    content: about_default.md
+    content: about_prospective_phd.md
     image_circular: true # crops the image to make it circular
     more_info: 
 ---
