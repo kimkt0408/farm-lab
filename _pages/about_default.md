@@ -8,6 +8,11 @@
   <li><strong>B.S.</strong>: Mechanical Engineering, Korea University, 2019</li>
 </ul>
 
+<h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Research Interests</h4>
+<p style="font-size: 0.9rem; line-height: 1.6;">
+Developing generalizable, collaborative, and scalable robot autonomy in challenging and unstructured field environments, including agriculture, forestry, livestock, mining, and search-and-rescue.
+</p>
+
 <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4>
 <div style="font-size: 1.5rem; line-height: 1;">
   <a href="mailto:kim3686@purdue.edu" style="margin-right: 0.5rem;"><i class="fas fa-envelope"></i></a>
