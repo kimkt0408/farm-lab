@@ -17,7 +17,7 @@ profiles:
       
   - align: left
     image: wolfpack_logo.png
-    content: about_KitaeKim_copy.md
+    content: about_KitaeKim copy.md
     image_circular: true # crops the image to make it circular
     more_info: 
 ---
