@@ -11,7 +11,7 @@
 </div>
 
 <!-- <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4> -->
-<div style="font-size: 1.5rem; line-height: 1;">
+<div style="font-size: 1.5rem; line-height: 1; margin-top: 2.0rem;">
   <a href="mailto:kim3686@purdue.edu" style="margin-right: 0.5rem;"><i class="fas fa-envelope"></i></a>
   <a href="https://www.linkedin.com/in/kimkt0408" style="margin-right: 0.5rem;"><i class="fab fa-linkedin"></i></a>
   <a href="https://scholar.google.com/citations?user=6FfnTeYAAAAJ&hl=en" style="margin-right: 0.5rem;"><i class="ai ai-google-scholar"></i></a>
