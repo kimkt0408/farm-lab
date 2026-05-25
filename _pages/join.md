@@ -1,6 +1,6 @@
 ---
 layout: page
-title: join
+title: Join
 permalink: /join/
 nav: true
 nav_order: 7

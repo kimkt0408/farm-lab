@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br><b><a href="https://bae.ncsu.edu/">Department of Biological and Agricultural Engineering</a>, North Carolina State University</b>
 
