@@ -21,7 +21,7 @@ latest_posts:
 **Welcome to the Field Automation, Robotics, & Machinery (FARM) Lab, directed by Dr. Kitae Kim at North Carolina State University!**
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/farm-lab/assets/img/future_vision.png" alt="FARM Lab Vision" style="max-width: 600px; width: 100%; height: auto;">
+  <img src="/farm-lab/assets/img/future_vision2.png" alt="FARM Lab Vision" style="max-width: 600px; width: 100%; height: auto;">
 </div>
 
-The ultimate mission of the FARM Lab is to design intelligent robotic systems that mitigate critical global challenges, such as extreme weather volatility, labor shortages, and severe resource constraints. To achieve this mission, our research focuses on developing **Generalizable, Collaborative, and Scalable Robot Autonomy** in challenging and unstructured field environments, with applications in agriculture, forestry, livestock, mining, and search-and-rescue. Our lab designs and deploys diverse autonomous intelligent systems across heterogeneous platforms, including wheeled ground vehicles, legged robots, aerial drones, and humanoid robots.
+The ultimate mission of the FARM Lab is to design intelligent robotic systems that mitigate critical global challenges, such as extreme weather volatility, labor shortages, and severe resource constraints. To achieve this mission, our research focuses on developing **Generalizable, Collaborative, and Scalable Robot Autonomy** in challenging and unstructured field environments, with applications in, but not limited to, agriculture, forestry, and livestock. Our lab designs and deploys diverse autonomous intelligent systems across heterogeneous platforms, including wheeled ground vehicles, legged robots, aerial drones, and humanoid robots.
