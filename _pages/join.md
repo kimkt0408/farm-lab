@@ -42,8 +42,8 @@ If you are interested in pursuing a Ph.D. in our lab, please:
 ### Undergraduate & Master Students
 
 NC State undergraduate and master students interested in research opportunities should:
-- Have completed relevant coursework in robotics, sensors, programming, or related areas
-- Have experienced Linux Ubuntu, ROS1/2, C++, Python
+- Are taking or have completed relevant coursework in robotics, sensors, programming, or related areas
+- Have experience with programming in Linux Ubuntu, ROS1/2, C++, Python
 - Be able to participate in research for at least one year
 
 **To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
