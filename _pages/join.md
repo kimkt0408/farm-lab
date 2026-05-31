@@ -29,7 +29,7 @@ If you are interested in pursuing a Ph.D. in our lab, please:
 
 1. Apply to the [Department of Biological and Agricultural Engineering at NC State](https://bae.ncsu.edu/academics/graduate-programs/)
 2. Mention Dr. Kitae Kim in your application
-3. Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+3. Feel free to email me at [kimkt0408@gmail.com](mailto:kimkt0408@gmail.com) with:
    - **Email Subject:** `[FARM LAB: Ph.D. Application] Your Name`
    - Your CV
    - Research statement
@@ -46,7 +46,7 @@ NC State undergraduate and master students interested in research opportunities 
 - Have experience with programming in Linux Ubuntu, ROS1/2, C++, Python
 - Be able to participate in research for at least one year
 
-**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+**To Apply:** Feel free to email me at [kimkt0408@gmail.com](mailto:kimkt0408@gmail.com) with:
    - **Email Subject:** `[FARM LAB: Undergrad/Master Application] Your Name`
    - Your CV
    - Research interests
@@ -63,7 +63,7 @@ We have openings for postdoctoral researchers:
 - Strong publication record
 - Expertise in one or more: robot perception, planning, control, or learning
 
-**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+**To Apply:** Feel free to email me at [kimkt0408@gmail.com](mailto:kimkt0408@gmail.com) with:
    - **Email Subject:** `[FARM LAB: PostDoc Application] Your Name`
    - Your CV
    - Research statement
@@ -75,7 +75,7 @@ We have openings for postdoctoral researchers:
 
 We welcome visiting scholars and researchers. 
 
-**To Apply:** Feel free to email me at [kim3686@purdue.edu](mailto:kim3686@purdue.edu) with:
+**To Apply:** Feel free to email me at [kimkt0408@gmail.com](mailto:kimkt0408@gmail.com) with:
    - **Email Subject:** `[FARM LAB: VisitingScholar Application] Your Name`
    - Your CV
    - Research statement
@@ -85,4 +85,4 @@ We welcome visiting scholars and researchers.
 
 #### Contact
 
-For any inquiries about the FARM Lab, please feel free to reach out to: [kim3686@purdue.edu](mailto:kim3686@purdue.edu)
+For any inquiries about the FARM Lab, please feel free to reach out to: [kimkt0408@gmail.com](mailto:kimkt0408@gmail.com)
