@@ -26,6 +26,6 @@ latest_posts:
 
 The ultimate mission of the FARM Lab is to design intelligent robotic systems that mitigate critical global challenges, such as extreme weather volatility, labor shortages, and severe resource constraints. To achieve this mission, our research focuses on developing **Generalizable, Collaborative, and Scalable Robot Autonomy** in challenging and unstructured field environments, with applications in, but not limited to, agriculture, forestry, and livestock. Our lab designs and deploys diverse autonomous intelligent systems across heterogeneous platforms, including wheeled ground vehicles, legged robots, aerial drones, and humanoid robots.
 
-**If you want to learn more about the research vision of our lab, please [click here](/farm-lab/assets/pdf/ResearchStatement_NCState_BAE.pdf).**
+**If you want to learn more about the research vision of our lab, please [click here](/farm-lab/assets/pdf/FARMLab_ResearchStatement.pdf).**
 
 
