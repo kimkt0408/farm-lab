@@ -13,7 +13,7 @@ profiles:
   # Faculty Section
   - category: Faculty
     align: left
-    image: KitaeKim.png
+    image: Kitae_Kim_Profile2_cropped2.jpg
     content: about_KitaeKim.md
     image_circular: true # crops the image to make it circular
     more_info:
