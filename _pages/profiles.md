@@ -21,7 +21,7 @@ profiles:
   # Students Section
   - category: Students
     align: left
-    image: headshot_TuckerWooten.webp
+    image: headshot_TuckerWooten_edited.jpg
     content: about_TuckerWooten.md
     image_circular: true # crops the image to make it circular
     more_info:

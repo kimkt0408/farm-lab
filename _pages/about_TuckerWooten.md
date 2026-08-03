@@ -1,6 +1,6 @@
 <div style="margin-left: 1.5rem;">
 
-<h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;">Tucker Wooten</h3>
+<h3 style="margin-bottom: 0.25rem; font-size: 1.5rem;"><strong>Tucker Wooten</strong></h3>
 <p style="margin-top: 0; margin-bottom: 1rem; font-size: 0.95rem;">Undergraduate Researcher, 08.2026 - Present <br>Electrical Engineering, NC State University</p>
 
 <h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Education</h4>
@@ -10,7 +10,7 @@
 <div><strong>B.S.</strong>: Biochemistry, NC State University, 2022</div>
 </div>
 
-<h4 style="margin-bottom: 0.5rem; font-size: 1.1rem;">Research Area</h4>
+<h4 style="margin-top: 1.0rem; margin-bottom: 0.5rem; font-size: 1.1rem;">Research Area</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
 <div>Agricultural Robotics</div>
 </div>
