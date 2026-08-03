@@ -21,8 +21,8 @@ profiles:
   # Students Section
   - category: Students
     align: left
-    image: wolfpack_logo.png
-    content: about_prospective_phd.md
+    image: headshot_TuckerWooten.webp
+    content: about_TuckerWooten.md
     image_circular: true # crops the image to make it circular
     more_info:
 
