@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤝 Welcome to the FARM Lab, Tucker Wooten, as an undergraduate researcher! Glad to have you on the team!
+🤝 Welcome to the FARM Lab, Tucker Wooten! We are excited to have you join us as an undergraduate researcher.
