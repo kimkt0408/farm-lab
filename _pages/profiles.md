@@ -26,6 +26,13 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
 
+  - category: Students
+    align: left
+    image: headshot_KellerVirgilio_edited.jpg
+    content: about_KellerVirgilio.md
+    image_circular: true # crops the image to make it circular
+    more_info:
+
   # Alumni Section (add alumni profiles here when you have them)
   # - category: Alumni
   #   align: left
