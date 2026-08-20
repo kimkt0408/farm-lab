@@ -17,6 +17,7 @@
   <a href="https://scholar.google.com/citations?user=6FfnTeYAAAAJ&hl=en" style="margin-right: 0.5rem;"><i class="ai ai-google-scholar"></i></a>
   <a href="https://drive.google.com/file/d/1g6f5Klw94DWswm-HU9RC19YKRJzHuHQe/view?usp=drive_link" style="margin-right: 0.5rem;"><i class="ai ai-cv"></i></a>
   <a href="https://bae.ncsu.edu/people/kitae-kim"><i class="fas fa-globe"></i></a>
+  <a href="[https://github.com/farm-lab-robotics](https://github.com/farm-lab-robotics)" target="_blank" style="margin-right: 0.5rem;"><i class="fab fa-github"></i></a>
 </div>
 
 </div>
