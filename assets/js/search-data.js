@@ -436,7 +436,7 @@ ninja.data = [{
           title: '⭐ The National Science Foundation featured research from Dr. Kim’s doctoral studies. (Link)...',
           description: "",
           section: "News",},{id: "news-dr-kim-will-give-a-lightning-talk-titled-generalizable-and-scalable-robot-system-for-precision-agriculture-at-nc-state-applied-ai-symposium",
-          title: '🎤 Dr. Kim will give a lightning talk titled “Generalizable and Scalable Robot...',
+          title: '🎤 Dr. Kim will give a Lightning Talk titled “Generalizable and Scalable Robot...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
