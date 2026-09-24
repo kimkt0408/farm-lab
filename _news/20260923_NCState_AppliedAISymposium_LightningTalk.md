@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 Dr. Kim will give a **Lightning Talk** titled "Generalizable and Scalable Robot System for Precision Agriculture" at [NC State Applied AI Symposium](https://engr.ncsu.edu/applied-ai/events/symposium/?spMailingID=51909150&spUserID=MTM4MTg0NTQ2ODY4MgS2&spJobID=3242741617&spReportId=MzI0Mjc0MTYxNwS2#details).
+🎤 Dr. Kim gave a **Lightning Talk** titled "Generalizable and Scalable Robot System for Precision Agriculture" at [NC State Applied AI Symposium](https://engr.ncsu.edu/applied-ai/events/symposium/?spMailingID=51909150&spUserID=MTM4MTg0NTQ2ODY4MgS2&spJobID=3242741617&spReportId=MzI0Mjc0MTYxNwS2#details).
