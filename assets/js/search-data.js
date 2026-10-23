@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/farm-lab/news/";
           },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses and instructional activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/farm-lab/teaching/";
+          },
         },{id: "nav-join",
           title: "Join",
           description: "",
