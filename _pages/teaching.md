@@ -1,15 +1,27 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+title: Teaching
+description: Courses and instructional activities.
+nav: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<!-- _pages/teaching.md -->
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+<div class="teaching">
 
-{% include courses.liquid %}
+## Teaching & Mentorship
+
+Our lab is committed to providing hands-on, multidisciplinary education at the intersection of field robotics, autonomous systems, and biological & agricultural engineering. 
+
+---
+
+## Courses
+
+### BAE 401/501: Sensors and Controls
+* **Term:** Spring 2027
+* **Level:** Undergraduate / Graduate
+* **Role:** Instructor
+* **Description:** Basic concepts of sensors and controls for biological systems. Study of transducers and circuits utilized in biological and agricultural engineering applications. Demonstration of concepts of error, accuracy and precision, linearity and other instrument characteristics by electronic models. Provision of hands-on experience for reinforcing lecture concepts in laboratories. Credit will not be given for both BAE 401 and BAE 501.
+* **Prerequisites:** BAE 305.
