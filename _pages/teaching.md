@@ -12,8 +12,6 @@ calendar: false
 
 <div class="teaching" markdown="1">
 
-## Teaching Courses
-
 ### BAE 401/501: Sensors and Controls
 - **Term:** Spring Semesters
 - **Level:** Undergraduate / Graduate
