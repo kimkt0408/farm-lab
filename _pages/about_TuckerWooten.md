@@ -12,7 +12,7 @@
 
 <h4 style="margin-top: 1.0rem; margin-bottom: 0.5rem; font-size: 1.1rem;">Research Area</h4>
 <div style="font-size: 0.9rem; line-height: 1.8;">
-<div>Agricultural Robotics, Navigation, Path Planning</div>
+<div>Navigation, Path Planning</div>
 </div>
 
 <!-- <h4 style="margin-bottom: 0.5rem; margin-top: 1rem; font-size: 1.1rem;">Contact & Links</h4> -->
