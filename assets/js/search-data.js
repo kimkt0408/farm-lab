@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/farm-lab/publications/";
           },
-        },{id: "nav-news",
-          title: "News",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/farm-lab/news/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "courses",
           section: "Navigation",
           handler: () => {
             window.location.href = "/farm-lab/teaching/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/farm-lab/news/";
           },
         },{id: "nav-join",
           title: "Join",
