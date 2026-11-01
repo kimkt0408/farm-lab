@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "courses",
+          description: "courses teaching at NC State University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/farm-lab/teaching/";
