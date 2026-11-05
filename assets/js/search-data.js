@@ -445,7 +445,7 @@ ninja.data = [{
           section: "News",},{id: "news-dr-kim-s-work-crop-lo-crop-row-optimized-lidar-odometry-for-autonomous-navigation-and-crop-monitoring-in-cornfields-received-a-top-5-review-score-and-dr-kim-gave-a-lightning-talk-at-the-iros-2026-workshop-from-innovation-to-adoption-hardware-ai-policy-and-funding-challenges-in-agricultural-robotics-in-pittsburgh-pa",
           title: '🎤 Dr. Kim’s work, “CROP-LO: Crop-Row-OPtimized LiDAR Odometry for Autonomous Navigation and Crop...',
           description: "",
-          section: "News",},{id: "news-dr-kim-gave-a-seminar-titled-field-robotics-for-sustainable-and-precision-agriculture-at-nc-state-robotics-initiative-seminar-series",
+          section: "News",},{id: "news-dr-kim-gave-a-seminar-titled-field-robotics-for-sustainable-and-precision-agriculture-at-nc-state-robotics-initiative-seminar-series-view-photo",
           title: '🎤 Dr. Kim gave a Seminar titled “Field Robotics for Sustainable and Precision...',
           description: "",
           section: "News",},{id: "projects-project-1",
