@@ -439,7 +439,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-national-science-foundation-featured-research-from-dr-kim-s-doctoral-studies-link",
           title: '⭐ The National Science Foundation featured research from Dr. Kim’s doctoral studies. (Link)...',
           description: "",
-          section: "News",},{id: "news-dr-kim-gave-a-lightning-talk-titled-generalizable-and-scalable-robot-system-for-precision-agriculture-at-nc-state-applied-ai-symposium",
+          section: "News",},{id: "news-dr-kim-gave-a-lightning-talk-titled-generalizable-and-scalable-robot-system-for-precision-agriculture-at-nc-state-applied-ai-symposium-view-photo",
           title: '🎤 Dr. Kim gave a Lightning Talk titled “Generalizable and Scalable Robot System...',
           description: "",
           section: "News",},{id: "news-dr-kim-s-work-crop-lo-crop-row-optimized-lidar-odometry-for-autonomous-navigation-and-crop-monitoring-in-cornfields-received-a-top-5-review-score-and-dr-kim-gave-a-lightning-talk-at-the-iros-2026-workshop-from-innovation-to-adoption-hardware-ai-policy-and-funding-challenges-in-agricultural-robotics-in-pittsburgh-pa-view-photo",
