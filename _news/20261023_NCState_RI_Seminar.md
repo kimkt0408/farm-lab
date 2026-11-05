@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 Dr. Kim gave a **Seminar** titled "Field Robotics for Sustainable and Precision Agriculture" at [NC State Robotics Initiative Seminar Series](https://engr.ncsu.edu/robotics/seminar-series/#session-five) [[View photo ↗]](https://lnkd.in/p/e8fzNWde).
+🎤 Dr. Kim gave a **Seminar** titled "Field Robotics for Sustainable and Precision Agriculture" at [NC State Robotics Initiative Seminar Series](https://engr.ncsu.edu/robotics/seminar-series/#session-five) ([View Photo](https://lnkd.in/p/e8fzNWde)).
