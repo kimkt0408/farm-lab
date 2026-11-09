@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <span style="color:green; font-weight:bold;">Field Automation, Robotics, & Machinery Lab</span><br><b><a href="https://bae.ncsu.edu/">Department of Biological and Agricultural Engineering</a>, North Carolina State University</b>
+subtitle: <div style="text-align:center; margin-bottom:1rem;"><img src="/farm-lab/assets/img/farm-lab-tagline.svg" alt="Field Automation, Robotics, & Machinery Lab" style="max-width:500px; width:100%; height:auto;" class="logo-light"><img src="/farm-lab/assets/img/farm-lab-tagline-white.svg" alt="Field Automation, Robotics, & Machinery Lab" style="max-width:500px; width:100%; height:auto;" class="logo-dark"></div><b><a href="https://bae.ncsu.edu/">Department of Biological and Agricultural Engineering</a>, North Carolina State University</b>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

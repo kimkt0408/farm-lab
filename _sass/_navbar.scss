@@ -113,6 +113,48 @@
       }
     }
   }
+
+  // Logo dark mode support
+  .navbar-brand {
+    .logo-light {
+      display: inline;
+    }
+    .logo-dark {
+      display: none;
+    }
+  }
+}
+
+// Dark mode logo switching
+html[data-theme="dark"] {
+  .navbar.navbar-light {
+    .navbar-brand {
+      .logo-light {
+        display: none;
+      }
+      .logo-dark {
+        display: inline;
+      }
+    }
+  }
+
+  // Logo switching for about page and other content
+  .logo-light {
+    display: none !important;
+  }
+  .logo-dark {
+    display: inline !important;
+  }
+}
+
+// Light mode (default)
+:root {
+  .logo-light {
+    display: inline;
+  }
+  .logo-dark {
+    display: none;
+  }
 }
 
 .navbar-toggler {
