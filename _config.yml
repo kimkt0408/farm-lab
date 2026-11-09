@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: FARM LAB
+title: FARM Lab # the website title (if blank, full name will be used instead)
+first_name:
 middle_name:
 last_name:
 contact_note:
