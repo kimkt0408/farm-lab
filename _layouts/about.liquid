@@ -3,15 +3,11 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    <div class="post-title" style="text-align: center; margin-bottom: 0.5rem;">
+      <img src="{{ '/assets/img/farm-lab-logo.svg' | relative_url }}" alt="FARM Lab" style="max-width: 400px; width: 100%; height: auto;" class="logo-light">
+      <img src="{{ '/assets/img/farm-lab-logo-white.svg' | relative_url }}" alt="FARM Lab" style="max-width: 400px; width: 100%; height: auto;" class="logo-dark">
+    </div>
+    <p class="desc" style="margin-top: 0;">{{ page.subtitle }}</p>
   </header>
 
   <article>
