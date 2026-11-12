@@ -448,7 +448,7 @@ ninja.data = [{
           section: "News",},{id: "news-dr-kim-gave-a-seminar-titled-field-robotics-for-sustainable-and-precision-agriculture-at-nc-state-robotics-initiative-seminar-series-photo",
           title: '🎤 Dr. Kim gave a Seminar titled “Field Robotics for Sustainable and Precision...',
           description: "",
-          section: "News",},{id: "news-dr-kim-was-invited-to-ece-455-555-industrial-robotic-systems-computer-control-of-robots-instructor-dr-wei-hsi-chen-for-a-guest-lecture-titled-field-robotics-for-precision-agriculture",
+          section: "News",},{id: "news-dr-kim-was-invited-to-ece-455-555-industrial-robotic-systems-computer-control-of-robots-instructor-dr-wei-hsi-chen-for-a-guest-lecture-titled-field-robotics-for-precision-agriculture-photo",
           title: '🎤 Dr. Kim was invited to ECE 455/555: Industrial Robotic Systems/Computer Control of...',
           description: "",
           section: "News",},{id: "projects-project-1",
