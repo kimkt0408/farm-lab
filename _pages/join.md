@@ -15,7 +15,7 @@ For general inquiries about other positions, see below.
 
 ---
 
-### General Opportunities
+### 📢 General Opportunities
 
 We are looking for highly motivated students and postdoctoral researchers to join our team! Our main research topics include, but are not limited to:
 - Field robotics and automation
